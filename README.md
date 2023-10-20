@@ -1,17 +1,17 @@
 # MY PERSONAL DATA
 
-##My Name
-####Abdelrhman Mahmoud
+## My Name
+#### Abdelrhman Mahmoud
 
-##My Age
-####20
+## My Age
+#### 20
 
-##My Department
-####Communication and Electronics Department
+## My Department
+#### Communication and Electronics Department
 
-##My graduation year
-####2027
+## My graduation year
+#### 2027
 
-##My favorite team
-####Hardware
+## My favorite team
+#### Hardware
 
