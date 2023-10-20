@@ -1,2 +1,17 @@
 # MY PERSONAL DATA
-GitHup task for Mind Cloud
+
+##My Name
+Abdelrhman Mahmoud
+
+##My Age
+20
+
+##My Department
+Communication and Electronics Department
+
+##My graduation year
+2027
+
+##My favorite team
+Hardware
+
