@@ -1,2 +1,2 @@
-print ("Abdelrhman")
-print ("Communication and Electronics Department")
+print ("20")
+print ("abdelrhman")
