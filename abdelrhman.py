@@ -1,6 +1,1 @@
-print ("20")
-print ("abdelrhman mahmoud abbas")
-print ("green")
-print ("2027")
-print ("hard ware")
-print ("4")
+hello goodbye from the merge lf feature6 and main
